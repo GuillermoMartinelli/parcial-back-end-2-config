@@ -9,8 +9,8 @@ spring:
   data:
     mongodb:
       authentication-database: admin
-      username: rootuser
-      password: rootpass
+      username: Guillermo
+      password: 123456g
       database: amigoscode
       port: 27017
       host: localhost
